@@ -1,5 +1,5 @@
 # FullStackML_AQI_Prediction
-our AQI prediction project combines the efficiency of task automation and API integration for data extraction, followed by dataset hosting through an API and deployment of a machine learning model using Azure. This holistic approach ensures a streamlined and scalable solution for accurate and real-time Air Quality Index predictions.
+Our AQI prediction project combines the efficiency of task automation and API integration for data extraction, followed by dataset hosting through an API and deployment of a machine learning model using Azure. This holistic approach ensures a streamlined and scalable solution for accurate and real-time Air Quality Index predictions.
 
 TASK AUTOMATION USING SELENIUM:
 
@@ -18,6 +18,7 @@ MACHINE LEARNING - PREDICTION:
 -> Accuracy : 80%
 
 -> Results:
+
 <img width="629" alt="AzureML_Output" src="https://github.com/NehaVital/FullStackML_AQI_Prediction/assets/112386508/d6e6579f-1f37-4a45-b101-a8fee66fa777">
 
 
